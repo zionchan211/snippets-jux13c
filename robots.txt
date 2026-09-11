@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zionchan211.github.io/snippets-jux13c/sitemap.xml
